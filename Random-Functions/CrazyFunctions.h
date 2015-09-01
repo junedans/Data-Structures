@@ -225,7 +225,7 @@ bool isSubstring(string str1, string str2)
             if((j=(int)str2.length()))
                 return true;
         }
-        i=i+j;
+        i=i+1;
         j=0;
     }
     return false;
