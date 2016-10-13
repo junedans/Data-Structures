@@ -10,7 +10,6 @@
 //                                                                   //
 //  Created by Juned Ansari on 1/25/14.                              //
 //  Site: www.junedansari.com                                        //
-//  Phone: 315-396-4987                                              //
 //                                                                   //
 //  Version: v1.0                                                    //
 //  Copyright (c) 2014 Juned. All rights reserved.                   //
